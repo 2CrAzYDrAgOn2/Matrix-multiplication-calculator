@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LcpRkRL/T51eb8dWXERm6JgQA/g8IkmcYh4gVGF1zK1Fu9xfeuMCi0YxOyLerCcKwEjsteRjC+CLqdzXVHr72w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cdkaw\\OneDrive\\Рабочий стол\\Умножение матриц\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cdkaw\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\cdkaw\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
